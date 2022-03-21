@@ -1,0 +1,17 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+.bi {
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+.social-set {
+  width: 100%;
+  margin: 0 0 0.5em;
+  padding: 0 0 1em 0;
+  text-align: center;
+}
