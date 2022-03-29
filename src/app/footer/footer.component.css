@@ -1,12 +1,13 @@
 .footer {
-  position: absolute;
+  position: absolute !important;
   bottom: 0;
   width: 100%;
   height: 1px;
+  margin-bottom: -2.5rem !important;
 }
 
 .bi {
-  vertical-align: -0.125em;
+  vertical-align: -1.125em;
   fill: currentColor;
 }
 .social-set {
@@ -14,4 +15,11 @@
   margin: 0 0 0.5em;
   padding: 0 0 1em 0;
   text-align: center;
+}
+
+.footer-social {
+  width: 84%;
+  height: 24%;
+  vertical-align: -1.125em;
+  fill: currentColor;
 }
